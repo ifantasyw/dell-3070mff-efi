@@ -1,4 +1,4 @@
-dell-3080mff-efi
+dell-3070mff-efi
 Hackintosh for Dell 3070 MFF EFI For Monterey 12.0.1
 
 1、适配OC0.7.6、机型imac19,1、三码已生成
